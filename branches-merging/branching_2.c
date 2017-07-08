@@ -1,0 +1,3 @@
+void somethingElse(){
+	soething3();
+}
